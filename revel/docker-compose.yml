@@ -6,5 +6,5 @@ services:
     ports:
       - "9000:9000"
     volumes:
-      - .:/go/src/dev/revel
+      - .:/go/src/dev
     command: revel run dev/revel
