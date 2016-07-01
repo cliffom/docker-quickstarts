@@ -14,7 +14,7 @@ Initialize an Express app:
 docker-compose run --rm web express -f .
 ```
 
-Install reqired Node.js modules:
+Install required Node.js modules:
 ```
 docker-compose run --rm web npm i
 ```
